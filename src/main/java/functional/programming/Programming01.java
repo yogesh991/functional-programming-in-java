@@ -6,6 +6,9 @@ package functional.programming;/*
 import java.util.List;
 
 public class Programming01 {
+    /*    Usages  of foreach loop and filter method */
+
+
     public static void main(String[] args) {
         printOddNumbersInList(List.of(12,4,5,3,2,55,44,3,6,66,77,88));
         printAllNumbersInListFuntionalProgrammingWay(List.of(12,4,5,3,2,55,44,3,6,66,77,88));
